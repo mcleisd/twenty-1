@@ -7,3 +7,5 @@ do {
 } while (c < 16)
 
 console.log("We have escaped our loop.")
+
+// this is a comment
